@@ -1,0 +1,3 @@
+export GTYPIST_PATH=$HOME/.gtypist
+alias gtypist-reg="gtypist -b -s $GTYPIST_PATH/gtypist.typ"
+alias gtypist-prog="gtypist -b -s $GTYPIST_PATH/p.typ"

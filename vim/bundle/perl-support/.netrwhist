@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/cygdrive/c/_LOCALdata/GitWorkingDir/ABBasinsRenewal/CML6339-Station_metadata'
+let g:netrw_dirhist_2='/home/peter.szilagyi.z/tmp'
+let g:netrw_dirhist_3='/cygdrive/c/_LOCALdata/GitWorkingDir/DataMigration/MSLLDataConversion/PerlLib'
+let g:netrw_dirhist_4='/home/peter.szilagyi.z/tmp'
+let g:netrw_dirhist_5='/cygdrive/c/_LOCALdata/_BACKUPS_FROM_7.1/dev/wsp/Archive/WSP4/wsp/lib/tmp'
+let g:netrw_dirhist_6='/cygdrive/c/_LOCALdata/GitWorkingDir/DataMigration/MSCDataImport/convMSC/converter/tmp'
+let g:netrw_dirhist_7='/cygdrive/c/_LOCALdata/GitWorkingDir/DataMigration/MSLLDataConversion/Phase2Scripts/tmp'
+let g:netrw_dirhist_8='/cygdrive/c/_LOCALdata/GitWorkingDir/DataMigration/MSLLDataConversion/InputFiles/SQLFiles'

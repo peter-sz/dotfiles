@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/mnt/c/Users/peter/GoogleDrive/Projects/Employee/JobSearch2018/pandoc_resume'
+let g:netrw_dirhist_2='/home/peter/peter.git/BashEnv/dotfiles/bashrc-host'
+let g:netrw_dirhist_3='/home/peter/syncthing/GoogleDrive-Projects/Employee/JobSearch2018/resume'

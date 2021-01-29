@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/peter/.vim'
+let g:netrw_dirhist_2='/home/peter/svndir/ConfigFiles/_vim/ftdetect'
+let g:netrw_dirhist_3='/usr/share/moin/htdocs/rightsidebar/css'
+let g:netrw_dirhist_4='/home/peter/.vim/bundle/snipmate/snippets'
+let g:netrw_dirhist_5='/cygdrive/m/Temporary Object Files/101 Storage of benchmarks/Data Conversion/Object Template/FinalObjectTemplates'
+let g:netrw_dirhist_6='/cygdrive/c/Documents and Settings/peter.szilagyi/Desktop/test.htm'
+let g:netrw_dirhist_7='/home/peter.szilagyi/.vim'
+let g:netrw_dirhist_8='/home/peter.szilagyi/example/Wiski'

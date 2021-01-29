@@ -1,0 +1,23 @@
+# Global snippets
+
+#
+# Snippets for time mgmt (TODO.txt)
+#
+snippet date
+`date +'# %Y-%m-%d %a'`
+
+endsnippet
+
+
+snippet today
+`date +'# %Y-%m-%d %a'`
+${1}
+`cat templates/\`date -d '1 day' +'%a.md'\``
+endsnippet
+
+snippet tomorrow
+`date -d '1 day'  +'# %Y-%m-%d %a'`
+${1}
+`cat templates/\`date -d '1 day' +'%a.md'\` `
+endsnippet
+
